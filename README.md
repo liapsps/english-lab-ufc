@@ -1,15 +1,15 @@
-# Inglês Instrumental para TI — PET TI UFC Quixadá
+# 🇬🇧 English for Tech – Inglês Instrumental para TI
 
-Repositório com materiais reutilizáveis para o ensino de inglês instrumental focado na área de tecnologia.
+📚 Este repositório reúne materiais reutilizáveis, atividades e recursos para o ensino de **Inglês Instrumental focado na área de Tecnologia**, com objetivo de auxiliar estudantes universitários, especialmente os da UFC Quixadá.
 
-## 📘 Conteúdo
+## 📦 Conteúdo
 
-- Glossários técnicos (com ilustrações e exemplos)
-- Apostilas temáticas em PDF
-- Flashcards digitais (Quizlet)
-- Guias de leitura com vocabulário-chave
-- Links úteis e recursos complementares
+- 🧠 Glossários técnicos (com exemplos)
+- 📄 Apostilas temáticas em PDF
+- 🧩 Flashcards digitais (Quizlet/Anki)
+- 📘 Guias de leitura técnica (artigos e documentação)
+- 🔗 Links úteis e gratuitos para autoestudo
 
-## 🔄 Como contribuir
+## 🤝 Colabore
 
-Este repositório será continuamente alimentado por alunos e colaboradores do projeto. Fique à vontade para sugerir novos materiais ou melhorias!
+Se você é aluno(a), professor(a) ou entusiasta da área, contribuições são bem-vindas! Vamos construir uma base pública de recursos de forma colaborativa.
